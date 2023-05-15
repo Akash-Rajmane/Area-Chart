@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.chart {
+  fill: #69b3a2;
+  stroke: steelblue;
+}
